@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @si3r4
-- 👀 I’m interested in AI,CYBERSECURITY AND APP DEVELOPMENT
-- 🌱 I’m currently learning CYBERSECURITY,WEB DEVELOPMENT BASH SCRIPTING
-- 💞️ I’m looking to collaborate on Cybersec Projects
-<div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -51,18 +47,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/si3r4/si3r4/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">@si3r4</p>
 
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"  />
 </div>
 
 ###
